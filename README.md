@@ -1,3 +1,7 @@
 #DEMO 2 
 
-some text
+some text 
+
+##local developpement 
+
+1.Open index.html in ur browser 
